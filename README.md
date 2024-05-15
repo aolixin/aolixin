@@ -2,7 +2,7 @@
 
 - I'm a college junior student at USTB
 - Working in Tencent
-- Learning Unity && Rendering
+- Learning UE && Unity && Rendering
 - Contact me
   - Email -- 2876589230@qq.com
   - [Blog](http://154.8.195.244/)
