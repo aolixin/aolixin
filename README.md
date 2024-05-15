@@ -1,7 +1,7 @@
 ### Hello World !!! 👋
 
 - I'm a college junior student at USTB
-- Working in Xterio
+- Working in Tencent
 - Learning Unity && Rendering
 - Contact me
   - Email -- 2876589230@qq.com
